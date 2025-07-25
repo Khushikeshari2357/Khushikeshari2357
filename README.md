@@ -1,19 +1,3 @@
-## Hii  I am Khushi Keshari👋
-
-<!--
-**Khushikeshari2357/Khushikeshari2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there! I'm Khushi Keshari 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-keshari-675931357/)
@@ -23,10 +7,9 @@ Here are some ideas to get you started:
 
 
 ---
+### 👩‍💻 About Me
 
-### About Me 🎓
-
-I'm currently pursuing my **B.Tech CSE (AI & DS)** at **Khwaja Moinuddin Chishti Language University**, where I'm dedicated to developing my proficiency in Python, NumPy, Pandas, Matplotlib, and HTML. Every day is an opportunity to strengthen my skills in this exciting field!
+I'm currently pursuing my **B.Tech in Computer Science Engineering (Artificial Intelligence & Data Science)** at Khwaja Moinuddin Chishti Language University, where I'm dedicated to developing my proficiency in **Python** (my most used programming language), as well as NumPy, Pandas, Matplotlib, and HTML. Every day is an opportunity to strengthen my skills in this exciting field!
 
 ---
 
