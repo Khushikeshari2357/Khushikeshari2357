@@ -1,4 +1,15 @@
-# Hi there! I'm Khushi Keshari 👋
+
+<h1 align="center">Hi 👋, I'm Khushi Keshari</h1>
+<h3 align="center">Aspiring AI & Data Science Engineer | Student at Khwaja Moinuddin Chishti Language University</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khushikeshari2357&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/Most%20Used%20Language-Python-blue?logo=python&logoColor=white" alt="Most Used Language: Python"/>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-keshari-675931357/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushikeshari2537@gmail.com)
@@ -18,6 +29,14 @@ I'm currently pursuing my **B.Tech in Computer Science Engineering (Artificial I
 -   **Programming Languages:** Python, HTML
 -   **Libraries/Frameworks:** NumPy, Pandas, Matplotlib
 -   **Concepts:** Artificial Intelligence, Data Science, Machine Learning Fundamentals
+-   ### 🚀 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ---
 
@@ -31,13 +50,25 @@ Feel free to connect with me!
 
 ---
 
-### GitHub Stats & Activity 📊
+### 📈 GitHub Stats
 
-[![Khushi Keshari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushikeshari2357&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushikeshari2357&theme=radical" width="47%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushikeshari2357&layout=compact&theme=radical&hide=html,css,java" width="47%"/>
+</p>
 <p align="center">
   Made with ❤️ and Python by Khushi Keshari
 </p>
+---
+
+### 🤖 AI & Data Science Enthusiast
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khushikeshari2357/khushikeshari2357/main/assets/ai-coding.gif" alt="AI Coding Animation" height="150"/>
+</p>
+
+> **"Every day is an opportunity to learn, create, and innovate in the world of AI & Data Science!"**
+
