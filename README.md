@@ -56,9 +56,7 @@ Feel free to connect with me!
   <img src="https://github-readme-stats.vercel.app/api?username=Khushikeshari2357&show_icons=true&theme=radical" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushikeshari2357&theme=radical" width="47%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushikeshari2357&layout=compact&theme=radical&hide=html,css,java" width="47%"/>
-</p>
+
 <p align="center">
   Made with ❤️ and Python by Khushi Keshari
 </p>
